@@ -1,0 +1,121 @@
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\bin\Debug\net6.0-windows\calculator6.exe
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\bin\Debug\net6.0-windows\calculator6.deps.json
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\bin\Debug\net6.0-windows\calculator6.runtimeconfig.json
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\bin\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\bin\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.AssemblyReference.cache
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.Form1.resources
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.GenerateResource.cache
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfoInputs.cache
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfo.cs
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.CoreCompileInputs.cache
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\refint\calculator6.dll
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\calculator6.genruntimeconfig.cache
+C:\Users\Gokme\Desktop\C# Dersleri\calculator6\calculator6\obj\Debug\net6.0-windows\ref\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.exe
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.deps.json
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.runtimeconfig.json
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.AssemblyReference.cache
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.Form1.resources
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.GenerateResource.cache
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfoInputs.cache
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfo.cs
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.CoreCompileInputs.cache
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\refint\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.genruntimeconfig.cache
+C:\Users\Gokme\Desktop\backups\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\ref\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.exe
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.deps.json
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.runtimeconfig.json
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\bin\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.AssemblyReference.cache
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.Form1.resources
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.GenerateResource.cache
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfoInputs.cache
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfo.cs
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.CoreCompileInputs.cache
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\refint\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\calculator6.genruntimeconfig.cache
+C:\Users\Gokme\Desktop\calculator_19.07.22_2\calculator6\obj\Debug\net6.0-windows\ref\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.exe
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.deps.json
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.runtimeconfig.json
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.AssemblyReference.cache
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.Form1.resources
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.GenerateResource.cache
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfoInputs.cache
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfo.cs
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.CoreCompileInputs.cache
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\refint\calculator6.dll
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.genruntimeconfig.cache
+C:\Users\Gokme\Desktop\backups\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\ref\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.exe
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.deps.json
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.runtimeconfig.json
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.AssemblyReference.cache
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.Form1.resources
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.GenerateResource.cache
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfoInputs.cache
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfo.cs
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.CoreCompileInputs.cache
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\refint\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.genruntimeconfig.cache
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\ref\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_20.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.Properties.Resources.resources
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.exe
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.deps.json
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.runtimeconfig.json
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.AssemblyReference.cache
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.Form1.resources
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.Properties.Resources.resources
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.GenerateResource.cache
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfoInputs.cache
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfo.cs
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.CoreCompileInputs.cache
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\refint\calculator6.dll
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.genruntimeconfig.cache
+C:\Users\Gokme\Desktop\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\ref\calculator6.dll
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.exe
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.deps.json
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.runtimeconfig.json
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\bin\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.Form1.resources
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.Properties.Resources.resources
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.GenerateResource.cache
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfoInputs.cache
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.AssemblyInfo.cs
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.csproj.CoreCompileInputs.cache
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.dll
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\refint\calculator6.dll
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.pdb
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\calculator6.genruntimeconfig.cache
+C:\Users\Gokme\Desktop\Gokmen\Projects\AGEN\backups\calculator_22.07.22\calculator6\obj\Debug\net6.0-windows\ref\calculator6.dll
